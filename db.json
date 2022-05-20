@@ -1,25 +1,26 @@
-[
+{
+  "comments": [
   {
-    "id": 1,
-    "name": "João Silva Batista",
-    "comentario": "Recomendo, com seus produtos minha casa parece nova!"
+      "id": 1,
+      "name": "João Silva Batista",
+      "comentario": "Recomendo, com seus produtos minha casa parece nova!"
   },
   {
-    "id": 2,
-    "name": "Pedro Amoreiras de Oliveira",
-    "comentario": "Muito Bom!"
+      "id": 2,
+      "name": "Pedro Amoreiras de Oliveira",
+      "comentario": "Muito Bom!"
   },
   {
-    "id": 3,
-    "name": "Algusto Rodriguez de Paiva",
-    "comentario": "Melhor site de todos!!"
+      "id": 3,
+      "name": "Algusto Rodriguez de Paiva",
+      "comentario": "Melhor site de todos!!"
   },
   {
-    "id": 4,
-    "name": "Algusto Rodriguez de Paiva",
-    "comentario": "Melhor site de todos!!"
+      "id": 4,
+      "name": "Algusto Rodriguez de Paiva",
+      "comentario": "Melhor site de todos!!"
   }
-]
+  ],
   "slider": [
       {
           "id": 1,
@@ -37,3 +38,4 @@
           "url": "https://i.pinimg.com/564x/f0/cc/21/f0cc2190f4bc66269fa6fd18d01cd855.jpg"
       }
       ]
+}
