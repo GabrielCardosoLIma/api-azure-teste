@@ -17,6 +17,24 @@
   }
   ],
   "slider": [
+        {
+            "id": 1,
+            "title": "imagem1",
+            "url": "https://live.staticflickr.com/65535/52097327393_6163a79db9_k.jpg"
+        },
+        {
+            "id": 2,
+            "title": "imagem2",
+            "url": "https://live.staticflickr.com/65535/52097800145_86c741e930_h.jpg"
+        },
+        {
+            "id": 3,
+            "title": "imagem3",
+            "url": "https://live.staticflickr.com/65535/52097570769_1406f46ee2_k.jpg"
+        }
+      ]
+}
+ "sofas": [
       {
           "id": 1,
           "title": "imagem1",
@@ -34,3 +52,4 @@
       }
       ]
 }
+  
