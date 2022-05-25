@@ -19,17 +19,17 @@
   "slider": [
         {
             "id": 1,
-            "title": "imagem1",
+            "title": "slider-1",
             "url": "https://live.staticflickr.com/65535/52097327393_6163a79db9_k.jpg"
         },
         {
             "id": 2,
-            "title": "imagem2",
+            "title": "slider-2",
             "url": "https://live.staticflickr.com/65535/52097800145_86c741e930_h.jpg"
         },
         {
             "id": 3,
-            "title": "imagem3",
+            "title": "slider-3",
             "url": "https://live.staticflickr.com/65535/52097570769_1406f46ee2_k.jpg"
         }
       ],
@@ -53,63 +53,63 @@
    "produtos": [
       {
           "id": 1,
-          "title": "imagem1",
-          "url": "https://i.pinimg.com/564x/f0/cc/21/f0cc2190f4bc66269fa6fd18d01cd855.jpg"
+          "title": "cabeceira-1",
+          "url": "https://live.staticflickr.com/65535/52099467761_292667b549_w.jpg"
       },
       {
           "id": 2,
-          "title": "imagem2",
-          "url": "https://i.pinimg.com/564x/ad/34/20/ad3420da9453d25a0de4a535fdb4b1f7.jpg"
+          "title": "cabeceira-2",
+          "url": "https://live.staticflickr.com/65535/52099967495_a0cd1ff565_w.jpg"
       },
       {
           "id": 3,
-          "title": "imagem3",
-          "url": "https://i.pinimg.com/564x/f0/cc/21/f0cc2190f4bc66269fa6fd18d01cd855.jpg"
+          "title": "cabeceira-3",
+          "url": "https://live.staticflickr.com/65535/52099467926_2aa56cc134_w.jpg"
       },
            {
           "id": 4,
-          "title": "imagem1",
-          "url": "https://i.pinimg.com/564x/f0/cc/21/f0cc2190f4bc66269fa6fd18d01cd855.jpg"
+          "title": "cabeceira-4",
+          "url": "https://live.staticflickr.com/65535/52099467906_93a4a51650_w.jpg"
       },
       {
           "id": 5,
-          "title": "imagem2",
-          "url": "https://i.pinimg.com/564x/ad/34/20/ad3420da9453d25a0de4a535fdb4b1f7.jpg"
+          "title": "puff-1",
+          "url": "https://live.staticflickr.com/65535/52099491553_18a8be8d22_w.jpg"
       },
       {
           "id": 6,
-          "title": "imagem3",
-          "url": "https://i.pinimg.com/564x/f0/cc/21/f0cc2190f4bc66269fa6fd18d01cd855.jpg"
+          "title": "puff-2",
+          "url": "https://live.staticflickr.com/65535/52099967535_a277c7957a_w.jpg"
       },
       {
           "id": 7,
-          "title": "imagem1",
-          "url": "https://i.pinimg.com/564x/f0/cc/21/f0cc2190f4bc66269fa6fd18d01cd855.jpg"
+          "title": "puff-3",
+          "url": "https://live.staticflickr.com/65535/52099491528_dac2a22ec9_w.jpg"
       },
       {
           "id": 8,
-          "title": "imagem2",
-          "url": "https://i.pinimg.com/564x/ad/34/20/ad3420da9453d25a0de4a535fdb4b1f7.jpg"
+          "title": "puff-4",
+          "url": "https://live.staticflickr.com/65535/52099967530_95eb3c6be4_w.jpg"
       },
       {
           "id": 9,
-          "title": "imagem3",
-          "url": "https://i.pinimg.com/564x/f0/cc/21/f0cc2190f4bc66269fa6fd18d01cd855.jpg"
+          "title": "poltrona-1",
+          "url": "https://live.staticflickr.com/65535/52099491623_d4dc27c21f_w.jpg"
       },
       {
           "id": 10,
-          "title": "imagem1",
-          "url": "https://i.pinimg.com/564x/f0/cc/21/f0cc2190f4bc66269fa6fd18d01cd855.jpg"
+          "title": "poltrona-2",
+          "url": "https://live.staticflickr.com/65535/52099491598_5964002a5a_w.jpg"
       },
       {
           "id": 11,
-          "title": "imagem2",
-          "url": "https://i.pinimg.com/564x/ad/34/20/ad3420da9453d25a0de4a535fdb4b1f7.jpg"
+          "title": "poltrona-3",
+          "url": "https://live.staticflickr.com/65535/52099704909_88fc5b5d61_w.jpg"
       },
       {
           "id": 12,
-          "title": "imagem3",
-          "url": "https://i.pinimg.com/564x/f0/cc/21/f0cc2190f4bc66269fa6fd18d01cd855.jpg"
+          "title": "poltrona-4",
+          "url": "https://live.staticflickr.com/65535/52099491578_7543c271e6_w.jpg"
       }
       ],
 }
