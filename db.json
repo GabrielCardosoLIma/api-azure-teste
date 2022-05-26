@@ -95,7 +95,7 @@
           "url": "https://live.staticflickr.com/65535/52099491578_7543c271e6_w.jpg"
       }
       ],
-   "produtos": [
+   "produtos-cabeceira": [
       {
           "id": 1,
           "title": "cabeceira-1",
@@ -115,44 +115,48 @@
           "id": 4,
           "title": "cabeceira-4",
           "url": "https://live.staticflickr.com/65535/52099467906_93a4a51650_w.jpg"
-      },
+      }
+     ],
+  "produtos-puff": [
       {
-          "id": 5,
+          "id": 1,
           "title": "puff-1",
           "url": "https://live.staticflickr.com/65535/52099491553_18a8be8d22_w.jpg"
       },
       {
-          "id": 6,
+          "id": 2,
           "title": "puff-2",
           "url": "https://live.staticflickr.com/65535/52099967535_a277c7957a_w.jpg"
       },
       {
-          "id": 7,
+          "id": 3,
           "title": "puff-3",
           "url": "https://live.staticflickr.com/65535/52099491528_dac2a22ec9_w.jpg"
       },
       {
-          "id": 8,
+          "id": 4,
           "title": "puff-4",
           "url": "https://live.staticflickr.com/65535/52099967530_95eb3c6be4_w.jpg"
-      },
+      }
+    ],
+  "produtos-poltrona": [
       {
-          "id": 9,
+          "id": 1,
           "title": "poltrona-1",
           "url": "https://live.staticflickr.com/65535/52099491623_d4dc27c21f_w.jpg"
       },
       {
-          "id": 10,
+          "id": 2,
           "title": "poltrona-2",
           "url": "https://live.staticflickr.com/65535/52099491598_5964002a5a_w.jpg"
       },
       {
-          "id": 11,
+          "id": 3,
           "title": "poltrona-3",
           "url": "https://live.staticflickr.com/65535/52099704909_88fc5b5d61_w.jpg"
       },
       {
-          "id": 12,
+          "id": 4,
           "title": "poltrona-4",
           "url": "https://live.staticflickr.com/65535/52099491578_7543c271e6_w.jpg"
       }
