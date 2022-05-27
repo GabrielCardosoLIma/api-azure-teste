@@ -100,21 +100,25 @@
           "id": 1,
           "title": "cabeceira-1",
           "url": "https://live.staticflickr.com/65535/52099467761_292667b549_w.jpg"
+          "text": "Cabeceira - Tecido Corvino Preto (1.38M Largura  13CM Profundidade  1.20M Altura)"
       },
       {
           "id": 2,
           "title": "cabeceira-2",
           "url": "https://live.staticflickr.com/65535/52099967495_a0cd1ff565_w.jpg"
+        "text": "Cabeceira, Painel - Tecido Linho Branco (1.38M Largura  4CM Profundidade  70CM Altura)"
       },
       {
           "id": 3,
           "title": "cabeceira-3",
           "url": "https://live.staticflickr.com/65535/52099467926_2aa56cc134_w.jpg"
+        "text": "Cabeceira, Painel com Futon - Tecido Veludo Cinza (1.38M Largura  4CM Profundidade  70CM Altura)"
       },
            {
           "id": 4,
           "title": "cabeceira-4",
           "url": "https://live.staticflickr.com/65535/52099467906_93a4a51650_w.jpg"
+          "text": "Cabeceira 'Capitonê' - Tecido Linho Bege (1.38M Largura  13CM Profundidade  1.20M Altura)"
       }
      ],
   "produtos-puff": [
@@ -122,21 +126,25 @@
           "id": 1,
           "title": "puff-1",
           "url": "https://live.staticflickr.com/65535/52099491553_18a8be8d22_w.jpg"
+          "text": "Puff, Quadrado - Tecido Corvinho Preto (35CM Largura  35CM Profundidade  35CM Altura)"
       },
       {
           "id": 2,
           "title": "puff-2",
           "url": "https://live.staticflickr.com/65535/52099967535_a277c7957a_w.jpg"
+          "text": "Puff, Redondo - Tecido Pelego Preto (40CM Altura)"
       },
       {
           "id": 3,
           "title": "puff-3",
           "url": "https://live.staticflickr.com/65535/52099491528_dac2a22ec9_w.jpg"
+          "text": "Puff, Redondo com Capitonê - Tecido Corvinho Cinza (35CM Altura)"
       },
       {
           "id": 4,
           "title": "puff-4",
           "url": "https://live.staticflickr.com/65535/52099967530_95eb3c6be4_w.jpg"
+          "text": "Puff 'Banqueta', Pé Palito - Tecido Veludo Cinza (40CM Largura  35CM Profundidade  35CM Altura)"
       }
     ],
   "produtos-poltrona": [
@@ -144,16 +152,19 @@
           "id": 1,
           "title": "poltrona-1",
           "url": "https://live.staticflickr.com/65535/52099491623_d4dc27c21f_w.jpg"
+          "text": "Poltrona, Acento fixo - Tecido de Corvino Preto (70CM Largura  80CM Profundidade  80CM Altura)"
       },
       {
           "id": 2,
           "title": "poltrona-2",
           "url": "https://live.staticflickr.com/65535/52099491598_5964002a5a_w.jpg"
+          "text": "Poltrona 'Sofá', Almofada solta - Tecido Linho Cinza (70CM Largura  80CM Profundidade  80CM Altura)"
       },
       {
           "id": 3,
           "title": "poltrona-3",
           "url": "https://live.staticflickr.com/65535/52099704909_88fc5b5d61_w.jpg"
+          "text": "Poltrona, Braços de alumínio - Tecido Florido (50CM Largura  80CM Profundidade  80CM Altura)"
       },
       {
           "id": 4,
