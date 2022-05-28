@@ -33,66 +33,108 @@
             "url": "https://live.staticflickr.com/65535/52097570769_1406f46ee2_k.jpg"
         }
       ],
- "sofas": [
+ "sofas-retratil": [
       {
           "id": 1,
-          "title": "cabeceira-1",
-          "url": "https://live.staticflickr.com/65535/52099467761_292667b549_w.jpg"
+          "title": "retratil-1",
+          "url": "https://live.staticflickr.com/65535/52104285189_8179777fe8_w.jpg",
+          "text": "teste"
       },
       {
           "id": 2,
-          "title": "cabeceira-2",
-          "url": "https://live.staticflickr.com/65535/52099967495_a0cd1ff565_w.jpg"
+          "title": "retratil-2",
+          "url": "https://live.staticflickr.com/65535/52104285189_8179777fe8_w.jpg",
+          "text": "teste"
       },
       {
           "id": 3,
-          "title": "cabeceira-3",
-          "url": "https://live.staticflickr.com/65535/52099467926_2aa56cc134_w.jpg"
+          "title": "retratil-3",
+          "url": "https://live.staticflickr.com/65535/52104285189_8179777fe8_w.jpg",
+          "text": "teste"
       },
            {
           "id": 4,
-          "title": "cabeceira-4",
-          "url": "https://live.staticflickr.com/65535/52099467906_93a4a51650_w.jpg"
+          "title": "retratil-4",
+          "url": "https://live.staticflickr.com/65535/52104285189_8179777fe8_w.jpg",
+          "text": "teste"
+      }
+   ]
+   "sofas-2-3-lugares": [
+      {
+          "id": 1,
+          "title": "lugares-1",
+          "url": "https://live.staticflickr.com/65535/52104067753_e0224c41d0_w.jpg",
+          "text": "teste"
       },
       {
-          "id": 5,
-          "title": "puff-1",
-          "url": "https://live.staticflickr.com/65535/52099491553_18a8be8d22_w.jpg"
+          "id": 2,
+          "title": "lugares-2",
+          "url": "https://live.staticflickr.com/65535/52104067753_e0224c41d0_w.jpg",
+          "text": "teste"
       },
       {
-          "id": 6,
-          "title": "puff-2",
-          "url": "https://live.staticflickr.com/65535/52099967535_a277c7957a_w.jpg"
+          "id": 3,
+          "title": "lugares-3",
+          "url": "https://live.staticflickr.com/65535/52104067753_e0224c41d0_w.jpg",
+          "text": "teste"
+      },
+           {
+          "id": 4,
+          "title": "lugares-4",
+          "url": "https://live.staticflickr.com/65535/52104067753_e0224c41d0_w.jpg",
+          "text": "teste"
+      }
+      ],
+"sofas-de-canto": [
+      {
+          "id": 1,
+          "title": "canto-1",
+          "url": "https://live.staticflickr.com/65535/52104285209_bb24af1053_w.jpg",
+          "text": "teste"
       },
       {
-          "id": 7,
-          "title": "puff-3",
-          "url": "https://live.staticflickr.com/65535/52099491528_dac2a22ec9_w.jpg"
+          "id": 2,
+          "title": "canto-2",
+          "url": "https://live.staticflickr.com/65535/52104285209_bb24af1053_w.jpg",
+          "text": "teste"
       },
       {
-          "id": 8,
-          "title": "puff-4",
-          "url": "https://live.staticflickr.com/65535/52099967530_95eb3c6be4_w.jpg"
+          "id": 3,
+          "title": "canto-3",
+          "url": "https://live.staticflickr.com/65535/52104285209_bb24af1053_w.jpg",
+          "text": "teste"
+      },
+           {
+          "id": 4,
+          "title": "canto-4",
+          "url": "https://live.staticflickr.com/65535/52104285209_bb24af1053_w.jpg",
+          "text": "teste"
+      }
+      ],
+"sofas-chaise": [
+      {
+          "id": 1,
+          "title": "chaise-1",
+          "url": "https://live.staticflickr.com/65535/52104285184_d9b08a24dc_w.jpg",
+          "text": "teste"
       },
       {
-          "id": 9,
-          "title": "poltrona-1",
-          "url": "https://live.staticflickr.com/65535/52099491623_d4dc27c21f_w.jpg"
+          "id": 2,
+          "title": "chaise-2",
+          "url": "https://live.staticflickr.com/65535/52104285184_d9b08a24dc_w.jpg",
+          "text": "teste"
       },
       {
-          "id": 10,
-          "title": "poltrona-2",
-          "url": "https://live.staticflickr.com/65535/52099491598_5964002a5a_w.jpg"
+          "id": 3,
+          "title": "chaise-3",
+          "url": "https://live.staticflickr.com/65535/52104285184_d9b08a24dc_w.jpg",
+          "text": "teste"
       },
-      {
-          "id": 11,
-          "title": "poltrona-3",
-          "url": "https://live.staticflickr.com/65535/52099704909_88fc5b5d61_w.jpg"
-      },
-      {
-          "id": 12,
-          "title": "poltrona-4",
-          "url": "https://live.staticflickr.com/65535/52099491578_7543c271e6_w.jpg"
+           {
+          "id": 4,
+          "title": "chaise-4",
+          "url": "https://live.staticflickr.com/65535/52104285184_d9b08a24dc_w.jpg",
+          "text": "teste"
       }
       ],
    "produtos-cabeceira": [
